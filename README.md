@@ -19,6 +19,7 @@ http://mingw-w64.org/doku.php/download
 
 ### Compile
 ```g++ filename.cpp```
+
 If using Header files, compile them before the CPP file containing the main function
 Example: g++ header.h header2.h main.cpp
 
