@@ -8,7 +8,8 @@ This repository includes coursework that I completed in CSC 300 where the class 
 ## Windows
 1. Install MinGW compiler for Windows
 http://mingw-w64.org/doku.php/download
-2. Add the folder containing MINGW to the PATH Variable
+2. Follow the installation
+3. Add the folder containing MINGW to the PATH Variable
 
 ## Linux
 1. No prerequisites are required with Linux because Linux is cool
